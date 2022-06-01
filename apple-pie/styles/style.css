@@ -1,0 +1,17 @@
+header{
+    background-image: url(../images/apple-pie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:900px;
+}
+
+h1{
+    size:60px;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    align-items: center;
+    
+}
